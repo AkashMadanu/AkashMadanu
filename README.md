@@ -1,4 +1,4 @@
-## Hi there,👋 Iam 
+## Hi there,👋 I'm 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,c,androidstudio,github&theme=light)](https://skillicons.dev)
 
  🌱 I’m currently learning  Jetpack Comopse 
