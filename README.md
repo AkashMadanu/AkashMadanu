@@ -2,7 +2,7 @@
 
 ### Languages and Tools 🖥️ 
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,c,androidstudio,intellij,vscode,ellipse,Atom,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,c,androidstudio,atom,vscode,github&theme=dark)](https://skillicons.dev)
 
  🌱 I’m currently learning  Jetpack Comopse 
 - 🧪 INTERMEDIATE - XML ,Kotlin,Java,C
