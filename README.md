@@ -1,8 +1,16 @@
-## Hi there,👋 I'm 
+## Hi there,👋 I'm Akash
+
+### Languages and Tools 🖥️ 
+
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,c,androidstudio,github&theme=light)](https://skillicons.dev)
 
  🌱 I’m currently learning  Jetpack Comopse 
 - 🧪 INTERMEDIATE - XML ,Kotlin,Java,C
 
 ![](https://komarev.com/ghpvc/?username=AkashMadanu&style=flat-square)
+
+
+### Contact Me 📱
+
+[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://https://www.linkedin.com/in/akash-madanu/)
 
