@@ -7,7 +7,7 @@
  🌱 I’m currently learning  Jetpack Comopse 
 - 🧪 INTERMEDIATE - XML ,Kotlin,Java,C
 
-![](https://komarev.com/ghpvc/?username=AkashMadanu&style=flat-square)
+<!-- ![](https://komarev.com/ghpvc/?username=AkashMadanu&style=flat-square) -->
 
 
 ### Contact Me 📱
