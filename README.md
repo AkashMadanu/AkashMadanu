@@ -2,7 +2,7 @@
 
 ### Languages and Tools 🖥️ 
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,c,androidstudio,vscode,figma,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,python,kotlin,java,c,androidstudio,vscode,figma,github&theme=dark)](https://skillicons.dev)
 
  🌱 I’m currently learning -------------------
 - 🧪 INTERMEDIATE - XML ,Kotlin,Java,C
