@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,python,kotlin,java,c,androidstudio,vscode,figma,github&theme=dark)](https://skillicons.dev)
 
  🌱 I’m currently learning web development
-- 🧪 INTERMEDIATE - XML ,Kotlin,Java,C
+- 🧪 INTERMEDIATE - XML, Kotlin, Java,C
 
 <!-- ![](https://komarev.com/ghpvc/?username=AkashMadanu&style=flat-square) -->
 
