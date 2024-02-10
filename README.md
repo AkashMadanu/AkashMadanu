@@ -2,7 +2,7 @@
 
 ### Languages and Tools 🖥️ 
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,CSS,html,python,kotlin,java,c,androidstudio,vscode,figma,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,css,html,python,kotlin,java,c,androidstudio,vscode,figma,github&theme=dark)](https://skillicons.dev)
 
  🌱 I’m currently learning web development
 - 🧪 INTERMEDIATE - XML, Kotlin, Java,C
