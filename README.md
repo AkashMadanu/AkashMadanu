@@ -4,8 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,css,html,python,kotlin,java,c,androidstudio,vscode,figma,github&theme=dark)](https://skillicons.dev)
 
- 🌱 I’m currently learning web development
-- 🧪 INTERMEDIATE - XML, Kotlin, Java,C
+ 🌱 I’m currently learning to Secure the Connected World!
 
 <!-- ![](https://komarev.com/ghpvc/?username=AkashMadanu&style=flat-square) -->
 
