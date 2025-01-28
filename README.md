@@ -16,10 +16,11 @@ Here's the updated version with the project name "Hash Calculator" instead of th
 
 ---
 
-### 🌟 Featured Project's
+# 🌟 Featured Project's
 
-🛠️ <a href="https://hashcodecalculator.netlify.app" style="text-decoration:none; color:inherit;">Hash Calculator</a>.
-
+🛠️<a href="https://hashcodecalculator.netlify.app" rel="nofollow" target="_blank"  style="text-decoration: none; color: inherit;">
+    <strong>Hash Calculator</strong>
+</a>
 ---
 
 ### 📱 Contact Me  
