@@ -12,7 +12,7 @@ Here's the updated version with the project name "Hash Calculator" instead of th
 
 ### 🛠️ Languages and Tools  
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,css,html,python,kotlin,java,c,androidstudio,vscode,figma,github&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=c#,javascript,css,html,python,kotlin,java,c,androidstudio,vscode,figma,github&theme=dark)](https://skillicons.dev)  
 
 ---
 
