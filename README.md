@@ -1,4 +1,4 @@
-Here's the updated version with the project name "Hash Calculator" instead of the link:
+
 
 ---
 
