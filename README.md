@@ -1,32 +1,31 @@
+# Hi there, 👋 I'm Akash  
 
-
----
-
-## Hi there, 👋 I'm Akash  
-
-### 🌐 About Me  
+## 🌐 About Me  
 🌱 I’m currently learning to **Secure the Connected World**!  
-💻 Passionate about technology, cybersecurity, and innovative problem-solving.
+💻 Passionate about technology, cybersecurity, and innovative problem-solving.  
+🔐 Exploring real-world challenges through projects in digital forensics, secure web apps, and ethical hacking.
 
 ---
 
-### 🛠️ Languages and Tools  
+## 🛠️ Languages and Tools  
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,css,html,python,kotlin,java,c,androidstudio,vscode,figma,github&theme=dark)](https://skillicons.dev)  
 
 ---
 
-# 🌟 Featured Project's
+## 🌟 Featured Projects  
 
-🛠️<a href="https://hashcodecalculator.netlify.app" rel="nofollow" target="_blank"  style="text-decoration: none; color: inherit;">
-    <strong>Hash Calculator</strong>
-</a>
+### 🛠️ [Hash Calculator](https://hashcodecalculator.netlify.app)  
+Cross-platform digital forensic tool for generating hash values of files and directories.  
+Helps verify integrity and supports chain-of-custody in investigations.
+
+### 🔗 [SafeSnip – Secure URL Shortener](https://safesnip.netlify.app)  
+React-based URL shortening tool that uses Google Safe Browsing API to block phishing, malware, and deceptive links.  
+Privacy-focused with real-time threat detection and a simple, mobile-friendly UI.
+
 ---
 
-### 📱 Contact Me  
+## 📱 Contact Me  
 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/akash-madanu/)
-
----
-
 
