@@ -23,6 +23,9 @@ Helps verify integrity and supports chain-of-custody in investigations.
 React-based URL shortening tool that uses Google Safe Browsing API to block phishing, malware, and deceptive links.  
 Privacy-focused with real-time threat detection and a simple, mobile-friendly UI.
 
+### 🔍 [HashFD - Forensic Directory Hasher](https://github.com/AkashMadanu/HashFD.git)
+Built a cross-platform forensic hashing tool to verify the integrity of digital evidence.
+Enables investigators to verify digital evidence authenticity using different hashing algorithms across Windows and Linux platforms; follows strict chain-of-custody practices.
 ---
 
 ## 📱 Contact Me  
