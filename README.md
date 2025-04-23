@@ -24,10 +24,10 @@ React-based URL shortening tool that uses Google Safe Browsing API to block phis
 Privacy-focused with real-time threat detection and a simple, mobile-friendly UI.
 
 ### 🔍 [HashFD - Forensic Directory Hasher](https://github.com/AkashMadanu/HashFD.git)
-Built a cross-platform forensic hashing tool to verify the integrity of digital evidence.
+Built a cross-platform forensic hashing tool to **verify the integrity of digital evidence**.
 Enables investigators to verify digital evidence authenticity using different hashing algorithms across Windows and Linux platforms; follows strict chain-of-custody practices.
----
 
+---
 ## 📱 Contact Me  
 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/akash-madanu/)
